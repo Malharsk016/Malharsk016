@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&height=70&lines=Hi+👋+I'm+Malhar+Kulkarni;Application+%26+Sales+Engineer;GE+Healthcare+%7C+Ex-Bosch;Power+Electronics+%26+Embedded+Systems" alt="Typing SVG" />
+
+</div>
+
+---
+
 # 💫 About Me:
 ⚡ EE Engineer | Power Electronics · Embedded Systems · Circuit Design<br>🔬 Working on medical imaging systems @ GE Healthcare | Ex-Bosch (Automotive ECU Testing)<br>🛠️ Into power conversion, SPICE simulation, RTOS firmware & hardware-software integration<br>🧪 Built automated ECU test systems, resonant converter HV supplies & SPI interfaces<br>💻 Coding in C/C++, Python & Embedded C | ARM Cortex-M3 · ESP32 · Raspberry Pi<br>📐 Tools: MATLAB/Simulink · PLECS · Proteus · PSpice · Keil · Cadence<br>🎓 BE in EEE, KLE Tech — 9.29 GPA | 4th Rank University-wide
 
@@ -38,16 +46,37 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Malharsk016&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malharsk016&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📈 GitHub Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Malharsk016&theme=tokyo-night&hide_border=false)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Malharsk016&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 😂 Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Malharsk016&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Malharsk016&icon=9&color=0)](https://visitcount.itsvg.in)
+
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Malharsk016/Malharsk016/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Malharsk016/Malharsk016/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Malharsk016/Malharsk016/output/github-snake.svg" />
+</picture>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+[![](https://visitcount.itsvg.in/api?id=Malharsk016&label=Profile%20Views&icon=9&color=0&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
