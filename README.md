@@ -25,3 +25,9 @@
 [![](https://visitcount.itsvg.in/api?id=Malharsk016&icon=9&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code&pause=1000&color=00C9FF&center=true&width=600&lines=
+🏆+4th+Rank+@+KLE+Tech+University;
+⭐+GPA+9.29+%2F+10;
+🏅+Bosch+Quality+First+Associate;
+⚡+EE+Engineer+@+GE+Healthcare" />
